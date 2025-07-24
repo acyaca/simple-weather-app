@@ -1,0 +1,3 @@
+Aplikasi cuaca sederhana menggunakan java dan API Open weather
+- Tampilan Responsif
+- Deteksi Lokasi Otomatis
